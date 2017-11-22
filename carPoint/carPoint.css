@@ -48,9 +48,10 @@ body{
     width: 100%;
     height: auto;
     margin-top:-1.8rem;
-    z-index: 100;
+
 }
 .au img{
     width: 100%;
     height: 100%;
+    display: block;
 }
